@@ -1,4 +1,4 @@
-<h1 align="center">📘 PCB Designing with KiCad</h1>
+<h1 align="center">📘 PCB Designing by KiCad</h1>
 
 <p>
 KiCad is a free and open-source software suite for Electronic Design Automation (EDA). It allows users to design schematics, create PCB layouts, generate manufacturing files, and even perform 3D rendering of their boards. Used by professionals and hobbyists alike, KiCad provides powerful tools to bring electronic circuit ideas to life. From drawing basic schematics to routing complex multi-layer PCBs, it supports the complete workflow of hardware development. Its community-driven development model ensures regular updates, plugin support, and access to extensive libraries. Whether you're building a hobby project or prototyping for a product, KiCad equips you with everything you need to take your design from concept to fabrication.
